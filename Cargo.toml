@@ -1,0 +1,9 @@
+[package]
+name = "human-duration"
+version = "0.1.0"
+authors = ["Klein Florian <florian.klein@free.fr>"]
+
+[dependencies]
+chrono-humanize = "^0.0.11"
+chrono = "^0.4.0"
+
